@@ -1,1 +1,2 @@
 # LifeHackDano
+Aymanによるライフハックだのブログです。
